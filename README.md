@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**shubham-tiwary/shubham-tiwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Student Developer, learning and building ML systems. Also a Full Stack Developer working on a few projects. Currently a CSE Sophomore at Government College of Engineering & Textile Technology, Berhampore, West Bengal.
 
 
