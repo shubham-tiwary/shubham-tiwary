@@ -1,1 +1,1 @@
-![](cover.gif)
+![](cover.gif){width=150%}
