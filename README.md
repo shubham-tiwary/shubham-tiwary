@@ -1,1 +1,1 @@
-![](cover.gif)
+![image](cover2.gif)
